@@ -1,11 +1,11 @@
-#Trivial REST API in Flask
+# Trivial REST API in Flask
 This is a trivial REST API that may be used as a simple demo.
 Fred T. Dunaway
 fred.t.dunaway@gmail.com
 
-##Set up
+## Set up
 1. clone this repository
-1. pip -r requirements.txt
+1. pip install -r requirements.txt
 1. chmod 775 *.sh
 
 ## Running
