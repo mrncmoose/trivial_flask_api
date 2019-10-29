@@ -7,7 +7,7 @@ Fred T. Dunaway:  fred.t.dunaway@gmail.com
 
 ## Set up
 1. clone this repository (git clone https://github.com/mrncmoose/trivial_flask_api)
-1. cd /trivial_flask_api/trivial-api
+1. cd ~/trivial_flask_api/trivial-api
 1. pip install -r requirements.txt
 1. chmod 775 *.sh
 
