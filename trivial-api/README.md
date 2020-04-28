@@ -27,3 +27,5 @@ curl -u admin:change-me! -H "Accept: application/json" -H "Content-Type: applica
 ### To Do's:
 * Edit the file 'gcptest.ddns.net.conf' to change the domain name as required.
 * Copy the file 'gcptest.ddns.net.conf' to /etc/nginx/sites-enabled/<your domain name here>.conf
+
+### Use Jenkins to build
