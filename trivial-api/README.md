@@ -29,3 +29,4 @@ curl -u admin:change-me! -H "Accept: application/json" -H "Content-Type: applica
 * Copy the file 'gcptest.ddns.net.conf' to /etc/nginx/sites-enabled/<your domain name here>.conf
 
 ### Use Jenkins to build & Test
+Change!
