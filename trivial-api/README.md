@@ -31,7 +31,3 @@ curl -u admin:change-me! -H "Accept: application/json" -H "Content-Type: applica
 ### Use Jenkins to build & Test
 Change for jenkins pickup two
 
-wget -q --auth-no-challenge --user admin --password admin --output-document - \
-'http://localhost:8080/crumbIssuer/api/xml?xpath=concat(//crumbRequestField,":",//crumb)'
-
-Jenkins-Crumb:b3b21fdc1e9ba7f0ddd9466af5935925bd0e8fb170927b58628b2fb8d9bf45ab
